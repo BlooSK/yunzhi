@@ -944,3 +944,36 @@
   left:-3px;
   top:-2px;
 }
+#u62_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:319px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FF0000;
+}
+#u62 {
+  border-width:0px;
+  position:absolute;
+  left:93px;
+  top:1638px;
+  width:319px;
+  height:16px;
+  color:#FF0000;
+}
+#u63 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:319px;
+  white-space:nowrap;
+}
