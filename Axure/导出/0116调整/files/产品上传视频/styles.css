@@ -1837,3 +1837,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u161_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:299px;
+  height:300px;
+}
+#u161 {
+  border-width:0px;
+  position:absolute;
+  left:1476px;
+  top:1231px;
+  width:299px;
+  height:300px;
+}
+#u162 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:142px;
+  width:295px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
