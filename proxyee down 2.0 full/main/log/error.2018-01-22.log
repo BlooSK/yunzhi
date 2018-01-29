@@ -1,0 +1,171 @@
+2018-01-22  16:27:36.375 [main] INFO  lee.study.down.HttpDownApplication - Starting HttpDownApplication on Bloo with PID 2836 (C:\Users\Administrator\Desktop\proxyee down 2.0 full\main\proxyee-down-core.jar started by Administrator in C:\Users\Administrator\Desktop\proxyee down 2.0 full)
+2018-01-22  16:27:36.377 [main] DEBUG lee.study.down.HttpDownApplication - Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-22  16:27:36.378 [main] INFO  lee.study.down.HttpDownApplication - The following profiles are active: prd
+2018-01-22  16:27:41.805 [main] INFO  lee.study.down.HttpDownApplication - Started HttpDownApplication in 6.274 seconds (JVM running for 8.091)
+2018-01-22  16:27:42.883 [Thread-4] DEBUG lee.study.down.HttpDownProxyServer - HttpDownProxyServer listen 9999	proxyConfig:null
+2018-01-22  16:29:05.639 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：0	0
+2018-01-22  16:29:05.652 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：1	0
+2018-01-22  16:29:05.654 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：2	0
+2018-01-22  16:29:05.660 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：3	0
+2018-01-22  16:29:05.661 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：4	0
+2018-01-22  16:29:05.661 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：5	0
+2018-01-22  16:29:05.662 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：6	0
+2018-01-22  16:29:05.663 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：7	0
+2018-01-22  16:29:05.663 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：8	0
+2018-01-22  16:29:05.664 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：9	0
+2018-01-22  16:29:05.669 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：10	0
+2018-01-22  16:29:05.670 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：11	0
+2018-01-22  16:29:05.671 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：12	0
+2018-01-22  16:29:05.671 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：13	0
+2018-01-22  16:29:05.673 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：14	0
+2018-01-22  16:29:05.673 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：15	0
+2018-01-22  16:29:05.675 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：16	0
+2018-01-22  16:29:05.676 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：17	0
+2018-01-22  16:29:05.677 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：18	0
+2018-01-22  16:29:05.677 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：19	0
+2018-01-22  16:29:05.678 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：20	0
+2018-01-22  16:29:05.678 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：21	0
+2018-01-22  16:29:05.679 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：22	0
+2018-01-22  16:29:05.679 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：23	0
+2018-01-22  16:29:05.680 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：24	0
+2018-01-22  16:29:05.680 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：25	0
+2018-01-22  16:29:05.680 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：26	0
+2018-01-22  16:29:05.681 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：27	0
+2018-01-22  16:29:05.681 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：28	0
+2018-01-22  16:29:05.682 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：29	0
+2018-01-22  16:29:05.684 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：30	0
+2018-01-22  16:29:05.685 [http-nio-9000-exec-3] DEBUG lee.study.down.HttpDownBootstrap - 开始下载：31	0
+2018-01-22  16:29:05.963 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：2	0
+2018-01-22  16:29:05.986 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：22	0
+2018-01-22  16:29:05.988 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：20	0
+2018-01-22  16:29:05.989 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：25	0
+2018-01-22  16:29:05.991 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：23	0
+2018-01-22  16:29:05.992 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：1	0
+2018-01-22  16:29:05.994 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：0	0
+2018-01-22  16:29:05.996 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：4	0
+2018-01-22  16:29:05.998 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：24	0
+2018-01-22  16:29:06.000 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：3	0
+2018-01-22  16:29:06.002 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：5	0
+2018-01-22  16:29:06.004 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：6	0
+2018-01-22  16:29:06.006 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：7	0
+2018-01-22  16:29:06.007 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：27	0
+2018-01-22  16:29:06.009 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：8	0
+2018-01-22  16:29:06.011 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：9	0
+2018-01-22  16:29:06.013 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：10	0
+2018-01-22  16:29:06.018 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：11	0
+2018-01-22  16:29:06.020 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：12	0
+2018-01-22  16:29:06.022 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：13	0
+2018-01-22  16:29:06.023 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：14	0
+2018-01-22  16:29:06.025 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：16	0
+2018-01-22  16:29:06.026 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：17	0
+2018-01-22  16:29:06.028 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：19	0
+2018-01-22  16:29:06.029 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：15	0
+2018-01-22  16:29:06.030 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：18	0
+2018-01-22  16:29:06.032 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：21	0
+2018-01-22  16:29:06.033 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：28	0
+2018-01-22  16:29:06.035 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：29	0
+2018-01-22  16:29:06.036 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：30	0
+2018-01-22  16:29:06.037 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：31	0
+2018-01-22  16:29:06.921 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：2	0	bytes 1674174-2511260/26786787	837087
+2018-01-22  16:29:06.939 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：22	0	bytes 18415914-19253000/26786787	837087
+2018-01-22  16:29:06.953 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：24	0	bytes 20090088-20927174/26786787	837087
+2018-01-22  16:29:06.964 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：20	0	bytes 16741740-17578826/26786787	837087
+2018-01-22  16:29:06.970 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：23	0	bytes 19253001-20090087/26786787	837087
+2018-01-22  16:29:06.977 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：27	0	bytes 22601349-23438435/26786787	837087
+2018-01-22  16:29:06.984 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：25	0	bytes 20927175-21764261/26786787	837087
+2018-01-22  16:29:07.009 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：0	0	bytes 0-837086/26786787	837087
+2018-01-22  16:29:07.020 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：4	0	bytes 3348348-4185434/26786787	837087
+2018-01-22  16:29:07.059 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：3	0	bytes 2511261-3348347/26786787	837087
+2018-01-22  16:29:07.069 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：6	0	bytes 5022522-5859608/26786787	837087
+2018-01-22  16:29:07.071 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：1	0	bytes 837087-1674173/26786787	837087
+2018-01-22  16:29:07.072 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：5	0	bytes 4185435-5022521/26786787	837087
+2018-01-22  16:29:07.076 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：7	0	bytes 5859609-6696695/26786787	837087
+2018-01-22  16:29:07.081 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：8	0	bytes 6696696-7533782/26786787	837087
+2018-01-22  16:29:07.097 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：10	0	bytes 8370870-9207956/26786787	837087
+2018-01-22  16:29:07.104 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：11	0	bytes 9207957-10045043/26786787	837087
+2018-01-22  16:29:07.115 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：16	0	bytes 13393392-14230478/26786787	837087
+2018-01-22  16:29:07.119 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：17	0	bytes 14230479-15067565/26786787	837087
+2018-01-22  16:29:07.147 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：13	0	bytes 10882131-11719217/26786787	837087
+2018-01-22  16:29:07.152 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：9	0	bytes 7533783-8370869/26786787	837087
+2018-01-22  16:29:07.153 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：12	0	bytes 10045044-10882130/26786787	837087
+2018-01-22  16:29:07.156 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：19	0	bytes 15904653-16741739/26786787	837087
+2018-01-22  16:29:07.166 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：14	0	bytes 11719218-12556304/26786787	837087
+2018-01-22  16:29:07.170 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：21	0	bytes 17578827-18415913/26786787	837087
+2018-01-22  16:29:07.177 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：28	0	bytes 23438436-24275522/26786787	837087
+2018-01-22  16:29:07.180 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：30	0	bytes 25112610-25949696/26786787	837087
+2018-01-22  16:29:07.184 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：18	0	bytes 15067566-15904652/26786787	837087
+2018-01-22  16:29:07.185 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：29	0	bytes 24275523-25112609/26786787	837087
+2018-01-22  16:29:07.186 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：15	0	bytes 12556305-13393391/26786787	837087
+2018-01-22  16:29:07.199 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：31	0	bytes 25949697-26786786/26786787	837090
+2018-01-22  16:29:08.997 [nioEventLoopGroup-2-1] DEBUG lee.study.down.HttpDownBootstrap - 下载连接成功：26	0
+2018-01-22  16:29:10.712 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载响应：26	0	bytes 21764262-22601348/26786787	837087
+2018-01-22  16:29:11.127 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：16	837087	4
+2018-01-22  16:29:11.289 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：0	837087	4
+2018-01-22  16:29:11.449 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：2	837087	4
+2018-01-22  16:29:11.471 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：9	837087	4
+2018-01-22  16:29:11.656 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：4	837087	4
+2018-01-22  16:29:11.663 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：6	837087	4
+2018-01-22  16:29:11.839 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：24	837087	4
+2018-01-22  16:29:11.867 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：21	837087	4
+2018-01-22  16:29:11.930 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：27	837087	4
+2018-01-22  16:29:11.991 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：25	837087	4
+2018-01-22  16:29:12.005 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：14	837087	4
+2018-01-22  16:29:12.339 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：20	837087	4
+2018-01-22  16:29:12.457 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：8	837087	4
+2018-01-22  16:29:12.550 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：28	837087	4
+2018-01-22  16:29:12.573 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：1	837087	4
+2018-01-22  16:29:12.748 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：15	837087	4
+2018-01-22  16:29:12.841 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：23	837087	4
+2018-01-22  16:29:13.022 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：12	837087	4
+2018-01-22  16:29:13.107 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：3	837087	4
+2018-01-22  16:29:13.589 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：30	837087	4
+2018-01-22  16:29:13.713 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：7	837087	4
+2018-01-22  16:29:13.764 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：10	837087	4
+2018-01-22  16:29:13.945 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：29	837087	4
+2018-01-22  16:29:14.121 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：5	837087	4
+2018-01-22  16:29:14.745 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：22	837087	4
+2018-01-22  16:29:14.820 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：17	837087	4
+2018-01-22  16:29:15.008 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：13	837087	4
+2018-01-22  16:29:15.124 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：11	837087	4
+2018-01-22  16:29:15.227 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：19	837087	4
+2018-01-22  16:29:15.679 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：18	837087	4
+2018-01-22  16:29:16.332 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：31	837090	4
+2018-01-22  16:29:22.018 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 分段下载完成：26	837087	4
+2018-01-22  16:29:22.019 [nioEventLoopGroup-2-1] DEBUG lee.study.down.handle.HttpDownInitializer - 下载完成：26	837087
+2018-01-22  16:45:29.842 [nioEventLoopGroup-5-8] ERROR io.netty.util.ResourceLeakDetector - LEAK: ByteBuf.release() was not called before it's garbage-collected. Enable advanced leak reporting to find out where the leak occurred. To enable advanced leak reporting, specify the JVM option '-Dio.netty.leakDetection.level=advanced' or call ResourceLeakDetector.setLevel() See http://netty.io/wiki/reference-counted-objects.html for more information.
+2018-01-22  20:56:36.332 [nioEventLoopGroup-2-1] ERROR lee.study.down.handle.HttpDownInitializer - down onError:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1106)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:373)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:138)
+	at java.lang.Thread.run(Thread.java:748)
+2018-01-22  22:34:51.294 [nioEventLoopGroup-2-1] ERROR lee.study.down.handle.HttpDownInitializer - down onError:
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1106)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:373)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:138)
+	at java.lang.Thread.run(Thread.java:748)
